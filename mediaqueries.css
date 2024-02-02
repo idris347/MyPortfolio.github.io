@@ -21,7 +21,7 @@
   .navbaridr{
     position: sticky;
     top: 0;
-    background-color: aliceblue;
+    background-color: #ffffff;
   }
   #hamburger-nav {
       display: flex;
